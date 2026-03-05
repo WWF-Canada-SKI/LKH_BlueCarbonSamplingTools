@@ -1,3 +1,4 @@
+PLACE HOLDER TO BE UPDATED:
 Sampling Design Tools
 Link to GEE app library - https://blue-carbon-hub.projects.earthengine.app/
 Link to Carbon learning library - https://wwf.ca/carbon-measurement/
